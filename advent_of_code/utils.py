@@ -1,5 +1,6 @@
-import requests
 import os
+
+import requests
 
 AOC_COOKIE = os.getenv("AOC_COOKIE")
 

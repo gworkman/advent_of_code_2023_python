@@ -1,4 +1,5 @@
 from typing import List
+
 from advent_of_code.challenge import Challenge
 
 DIGIT_MAPPING = {
