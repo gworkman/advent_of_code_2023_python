@@ -1,7 +1,8 @@
-from typing import Any
-from advent_of_code import utils
-import time
 import abc
+import time
+from typing import Any
+
+from advent_of_code import utils
 
 
 class Challenge:

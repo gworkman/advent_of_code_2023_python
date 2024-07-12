@@ -1,5 +1,6 @@
-import advent_of_code
 import argparse
+
+import advent_of_code
 
 parser = argparse.ArgumentParser(
     prog="advent_of_code",
